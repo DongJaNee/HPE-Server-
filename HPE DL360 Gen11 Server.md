@@ -40,6 +40,24 @@
 ✅ **고성능 및 고밀도 NVMe 스토리지 솔루션**  
 ✅ **데이터센터, 클라우드 환경, 고성능 컴퓨팅(HPC)에서 사용**  
 
+---
+# BIOS Configuration check 
+
+## System Configuration 
+- PCle / Adapter
+- OCP Slot / port
+- Disk (Storage) 
+
+![image](https://github.com/user-attachments/assets/9f1422cf-9cc6-4d69-a26b-aaa2f30d9513)
+
+## Summary  
+- Processor
+- DIMM
+- iLO Address
+
+![image](https://github.com/user-attachments/assets/587244c1-470c-4fb8-9227-27fb768e0090)
+
+
 # Broadcom
 
 ![image](https://github.com/user-attachments/assets/dd5eecb7-b346-4f5c-9ba4-fb1d1ec73228)
