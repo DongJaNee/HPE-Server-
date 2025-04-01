@@ -58,6 +58,3 @@
 ![image](https://github.com/user-attachments/assets/587244c1-470c-4fb8-9227-27fb768e0090)
 
 
-# Broadcom
-
-![image](https://github.com/user-attachments/assets/dd5eecb7-b346-4f5c-9ba4-fb1d1ec73228)
