@@ -1,9 +1,9 @@
 ### 디스크 Rebuild
-- Internet URL에 Server의 IP를 입력하여 ILO에 접속하였고, System Information -> Storage에 들어가서 Disk가 정상작동한 것을 확인한 뒤, SAS디스크 하나를 빼서 Disk Trouble을 만들었다.
+- Internet URL에 Server의 IP를 입력하여 ILO에 접속하였고, **System Information -> Storage** 에 들어가서 Disk가 정상작동한 것을 확인한 뒤, SAS디스크 하나를 빼서 Disk Trouble을 만들었다.
 
-- Disk Rebuild 방법(BIOS) : SAS Disk를 다시 Server에 삽입한 후 (BIOS) System Configuration -> Main Menu -> Drive Management에 들어가면 Disk가 Rebuild하는 것을 확인할 수 있다. 
+- **Disk Rebuild 방법(BIOS)** : **SAS Disk를 다시 Server에 삽입한 후 (BIOS) System Configuration -> Main Menu -> Drive Management에 들어가면 Disk가 Rebuild** 하는 것을 확인할 수 있다. 
 
-- Disk Rebuild 구성 상태 확인(ILO) : (ILO) System Information -> Storage에 접속하면 확인 가능하다. 
+- **Disk Rebuild 구성 상태 확인(ILO)** : **(ILO) System Information -> Storage에** 접속하면 확인 가능하다. 
 
 ![image](https://github.com/user-attachments/assets/a9179a67-aca4-4fd9-9b1a-69c2257193d0)
 
