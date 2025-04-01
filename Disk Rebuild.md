@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/accd3a13-cca6-4b8e-a5db-9a2a72add3dd)### 디스크 Rebuild
+### 디스크 Rebuild
 - Internet URL에 Server의 IP를 입력하여 ILO에 접속하였고, System Information -> Storage에 들어가서 Disk가 정상작동한 것을 확인한 뒤, SAS디스크 하나를 빼서 Disk Trouble을 만들었다.
 
 - Disk Rebuild 방법(BIOS) : SAS Disk를 다시 Server에 삽입한 후 (BIOS) System Configuration -> Main Menu -> Drive Management에 들어가면 Disk가 Rebuild하는 것을 확인할 수 있다. 
