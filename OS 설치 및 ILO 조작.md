@@ -22,7 +22,7 @@
 ---
 
 ### ILO의 라이센스 넣는 방법 (장비마다 라이센서를 구매해야 함)
-- **ALO Administration** -> **Licensing** 접속 -> **license의 Key 값**을 넣으면 된다.
+- **iLO Administration** -> **Licensing** 접속 -> **license의 Key 값**을 넣으면 된다.
 
 ---
 
