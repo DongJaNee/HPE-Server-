@@ -23,7 +23,8 @@
 #### FC HBA PCI 카드가 서버에 설치되어 있다면
 - **Server** - **FC cable** - **Storage**
 
-![image](https://github.com/user-attachments/assets/95515762-d7f4-4144-965c-8fbd2a6b919c)
+![image](https://github.com/user-attachments/assets/d1806806-63e4-4137-8a71-6d83482663a5)
+
 
 ---
 
