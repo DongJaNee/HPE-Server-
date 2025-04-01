@@ -70,10 +70,19 @@
 
 ## 2. System Information
 
-- **CPU**: Silver 4214R  
+![image](https://github.com/user-attachments/assets/d604b5d2-aecd-4aa8-8125-eb9e946b2962)
+
+- **CPU**: Intel(R) Xeon(R) Gold 5222  CPU 
   - (*System Information* -> Processor Information에서 CPU 확인 가능)
-- **메모리**: DIMM 256GB  
+
+--- 
+
+![image](https://github.com/user-attachments/assets/9a8a64c4-c6d0-444b-bc33-2599ab9fdc67)
+
+- **메모리**: DIMM 32GB  
   - (*System Information* -> Summary에서 메모리 용량 및 총량 확인 가능)
+
+--- 
 - **Power**: 800W x 2  
   - (서버 앞면에서 확인 가능)
 
