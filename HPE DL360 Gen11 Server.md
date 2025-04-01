@@ -19,6 +19,13 @@
 - **NVMe(Non-Volatile Memory Express) 인터페이스 지원**  
 - **기존 2.5인치 SSD 대비 높은 용량과 속도 제공**  
 
+![image](https://github.com/user-attachments/assets/4a30b034-a0cc-413c-a2e3-a6ccf746cc44)
+
+### ✅ Drive Backplane 
+- **Drive Backplane에 Disk를 삽입하면 System Configuration에서 Storage slot으로 Disk가 잡힌다.** 
+- **다수의 드라이브 연결 가능 (NVMe, SATA, SAS 지원)**
+- **RAID 컨트롤러와 연결하여 RAID 구성을 지원**
+  
 ---
 
 ## 2. EDSFF & E3.s란?
