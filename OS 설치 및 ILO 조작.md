@@ -31,7 +31,7 @@
 ![image](https://github.com/user-attachments/assets/0621b59d-0e3a-4f6f-b0e6-ecbdf268d4f3)
 
 - **2U**는 **1U**보다 부품이 많고 크기가 커서 로딩 시간이 길고 소리가 더 크다.
-- **IRO의 아이디 비밀번호**는 서버 장비 전원 밑 카드의 **User Name**과 **Password**를 참고하면 된다.
+- **iLO의 아이디 비밀번호**는 서버 장비 전원 밑 카드의 **User Name**과 **Password**를 참고하면 된다.
 - **Lifecycle Management** 하에 노트북으로 BIOS 화면 확인 가능.
 - HPE 서버 부팅 중 확인할 수 있는 정보: **메모리**, **사용 가능한 메모리**, **코어의 개수**, **시리얼 넘버** 등이 있다.
 
