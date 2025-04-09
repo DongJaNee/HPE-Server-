@@ -57,6 +57,11 @@
 
 ![image](https://github.com/user-attachments/assets/9f1422cf-9cc6-4d69-a26b-aaa2f30d9513)
 
+
+## Broadcom
+
+![image](https://github.com/user-attachments/assets/dd5eecb7-b346-4f5c-9ba4-fb1d1ec73228)
+
 ## Summary  
 - Processor
 - DIMM
