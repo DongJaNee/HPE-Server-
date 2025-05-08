@@ -9,6 +9,7 @@
 - Window OS 설치 후 USB로 옮긴다. 
 
 ### 3. 서버 BIOS 설정 
+- F8 : Disk 상태, Raid 구성, Disk Clear, Raid Clear
 - F9 : System BIOS 세팅 초기화 가능 
 - F5 : Smart Array Controller에서 Raid 구성
 - F11 -> One Time Boot Menu : Mount할 저장장치 확인 (USB는 3번)
