@@ -51,5 +51,22 @@ Enabling service providers and ambitious AI model builders with
 - Unlocking efficiencies
 - Driving new business models
 
+# On-Premise Agentic AI : Securing Enterprise Autonomy 
+## Agentic AI 
+- 쓰이는 중점 : 돈을 얼마나 적게 쓰고 얼마나 큰 수익을 내는가 
+### From Generative AI to Agentic AI 
+- OpenSource LLM은 성능이 낮다. (중학교 ~ 고등학교 수준)
+- Agentic AI를 사용함으로서 인간 개입을 최소한으로 줄이고 AI활용, 수준을 더 높인다.
+- Autonomy L self-triggered workflows (자율성)
+- Hierarchical planning & reflection (계획수립)
+- Secure tool-use with structured I/O (AI의 tool사용)
 
+### On-Prem AI
+- 요즘 AI는 빠르면서도 느리다.
+- On-Prem환경으로 구축하면 AI의 사용 속도가 훨씬 더 빨라진다.
+- 비용 안정화 측면에서 좋은 대안이 될 수 있다. (달러 환율은 가만히 있지 않는다.)
+
+### Agentic AI Layer
+1. Knowledge Layer - On-Prem RAG Pipeline (RAG System :사람처럼 정보를 찾아오는 시스템) 
+2. Integration Layer - Model Context Protocol (MCP : Rest API를 묶어놓은 것)
 
