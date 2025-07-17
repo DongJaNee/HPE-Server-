@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a4f2f497-0462-48a2-82a4-69de4087d366" /># 신뢰할 수 있는 AI 와 HPC 인프라 구축
+# 신뢰할 수 있는 AI 와 HPC 인프라 구축
 - 서버,스토리지,네트워킹 중요
 - AI사용함으로서, 점진적으로 global GDP가 상승하고있다.
 
