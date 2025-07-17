@@ -17,7 +17,27 @@
 | **AI 워크로드 적합성** | 중소 규모 AI<br>(일반 서버/ML 실험용)   | 초대형 AI<br>(LLM 학습, HPC, GB200 등) |
 
 ---
+# AI 도입 시도가 어려운 이유 
+- 기존 legacy solutions 환경이 존재하기 때문
+- 운영이나 관리가 어렵다
+- AI 모델 구축/운영에 필요한 인프라 부족하다 (GPU, 스토리지, 네트워크)
 
-# 대규모 AI 학습 인프라의 진화된 운영을 위한 NVIDIA Mission COntroll
-- AI Factories Power the Next Industrial Revolution
-- 
+# AI Storage 도입시 중요한 점  
+- Workload : 어떤 종류의 AI 워크로드를 처리할 것인가
+- Workflow : 워크플로우 목표 시간 내 완료 가능 여부
+- Capacity : 대규모 데이터를 저장할 수 있는가
+- Infrastructure challenges : 냉각, 전력, 물리적 공간 등 인프라 제약 대응 가능한가
+
+# AI training workflows 
+| 단계                           | 주요 문제                                       | 요구 사항                                                  |
+| ---------------------------- | ------------------------------------------- | ------------------------------------------------------ |
+| **Data Loading**             | - GPU 기아 현상 (GPU가 데이터 기다리며 idle 상태)         |  낮은 지연 시간 (Low Latency)<br> 높은 처리량 (High Throughput) |
+| **Checkpoint**      | - 읽기:쓰기 비율 2:1<br>- I/O 병목 발생 가능            |  전체 학습 시간의 **5% 이하 소요**<br> 빠른 쓰기 성능                 |
+| **Gradient Synchronization** | - 다수의 GPU/노드 간 **모델 파라미터 동기화**<br>- 네트워크 병목 |  **고대역폭 네트워크**<br> 빠른 IOPS 지원                        |
+| **Checkpoint**    | - 중간 실패 발생 시 복구 불가 위험                       |  **신뢰성 높은 스토리지**<br> 복구 가능한 백업 구조 (RAID, 중복 저장 등)    |
+
+---
+
+## GPU Focus 
+- Performance
+- Memory 
